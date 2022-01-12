@@ -68,7 +68,7 @@ $domain = "dikitin.com";
 
 $email = "$namalengkap@$domain";
 
-$reff = "edsrynt";
+//$reff = "edsrynt";
 
 echo  "\e\33[32;1mRegistration $email\n";
 
